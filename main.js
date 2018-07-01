@@ -29,7 +29,11 @@ cc.game.onStart = function(){
 
     //load resources
     cc.LoaderScene.preload(g_resources, function () {
-        cc.director.runScene(new Kane05Scene());
+        cc.director.runScene(new Kane06Scene());
     }, this);
+
+    cc.game.canvas.focus();
+
+
 };
 cc.game.run();

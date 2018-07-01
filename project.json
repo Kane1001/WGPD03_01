@@ -13,6 +13,12 @@
 
     "jsList" : [
         "src/resource.js",
-        "src/app.js"
+        "src/app.js",
+        "src/kane01.js",
+        "src/kane02.js",
+        "src/kane03.js",
+        "src/kane04.js",
+        "src/kane05.js"
+
     ]
 }
